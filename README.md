@@ -4,4 +4,3 @@ Youtube Clone App
 
 -React
 -MUI
--Vite
